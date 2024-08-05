@@ -52,8 +52,8 @@ The core of the chatbot involves integrating the pre-trained LLM, Pinecone, Lang
 
 The chatbot interface is the user-facing component that allows users to interact with the system.
 
-1. **Web Interface**: Create a web-based interface using Streamlit where users can enter their queries and receive responses.
-2. **Backend Integration**: Connect the web interface to the backend system that handles the query processing using LangChain and Pinecone.
+1. **Web Interface**: Created a web-based interface using Streamlit where users can enter their queries and receive responses.
+2. **Backend Integration**: Connected the web interface to the backend system that handles the query processing using LangChain and Pinecone.
 
 
 ### Conclusion
