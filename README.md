@@ -28,11 +28,11 @@ Streamlit is an open-source app framework used to create and share custom web ap
 
 ### Demostration
 
-![Desktop 2024 08 13 - 21 17 26 03](https://github.com/user-attachments/assets/dac2b58f-2d1f-41a5-bbb0-4d69faff4fc4)
+https://github.com/user-attachments/assets/5d2ef906-9bba-4aa5-9e7f-fe1786517f47
 
+https://github.com/user-attachments/assets/7ef3d087-80c2-4832-9a9c-538231b90b30
 
-
-.....
+https://github.com/user-attachments/assets/8ac6b527-7000-4e01-a312-cc71a9cbf139
 
 ## Implementation Details
 
